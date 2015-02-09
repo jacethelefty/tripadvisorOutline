@@ -5,31 +5,35 @@
 # Feb. 5. 2015 Start
 
 ++++++++++++OUTLINE FOR ASSIGNMENT++++++++++++
-www.tripadvisor.com
-1. Header
-  1.1. Logo
-  1.2. Catchphrase
-  1.3. Quick Links
-  1.4. Upper Navigation
-  1.5. Search Bar
-2. Upper Main
-  2.1. Background
-  2.2. Reviews
-  2.3. Plan Trip
-3. Slider with Quick Link Images
-4. Lower Main
-  4.1. What Travelers Are Saying Block
-  4.2. Most Popular Places in .....
-  4.3. User Photos
-  4.4. Links
-  4.5. About Tripadvisor
-5. Lower Aside
-  5.1. Flash Banner Advertisment
-  5.2. Travels Tips
-  5.3. Email Sign Up
-  5.4. Social Media Links
-6. Footer
-  6.1. Logo
-  6.2. Catchphrase
-  6.3. Links
-  6.4. Terms, Policies, Copy 
+++++++++++++COMPILED FROM: https://hoyois.github.io/html5outliner/
+
+1.Document
+    1.Section
+    2.Section
+    3.Section
+    4.Section
+        1.Navigation
+    5.Section
+    6.Reviews
+    7.Plan Trip
+    8.Section
+    9.What travelers are saying about (local city name)
+    10.Most popular places in (local city name)
+        1.Resturaunts
+        2.Things to do
+    11.Traveler photos from around the world
+    12.Spotlight Destination
+    13.Quick Links
+        1.Talk to us
+        2.For owners
+        3.Advertise with us
+        4.TripAdvisor Sites
+    14.Hotels in popular destinations
+        1.US and Canada
+        2.Europe
+        3.Caribbean / Mexico
+        4.Asia / Pacific and Australia
+        5.Africa / Middle East
+    15.Plan and book on the world's largest travel site
+    16.Tips for your next vacation
+    17.Follow Us
